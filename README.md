@@ -1,8 +1,4 @@
 # blooket-hacker
-Sharanya Narayani International School Mail	Aaditya Churiwala <snis0610@snis.edu.in>
-(no subject)
-Aaditya Churiwala <snis0610@snis.edu.in>	Tue, Nov 18, 2025 at 2:25 PM
-To: snis0676@snis.edu.in
 /**
  * @license AGPL-3.0
  * Blooket Cheats
